@@ -1,3 +1,12 @@
+[![Platform](https://img.shields.io/badge/Platform-ESP32-blue.svg)](https://www.espressif.com/en/products/socs/esp32)
+[![Language](https://img.shields.io/badge/Language-C++-green.svg)](https://www.arduino.cc/)
+[![Framework](https://img.shields.io/badge/Framework-Arduino-00979D.svg)](https://www.arduino.cc/)
+[![MQTT](https://img.shields.io/badge/Protocol-MQTT-660066.svg)](https://mqtt.org/)
+[![Dashboard](https://img.shields.io/badge/Dashboard-Node--RED-red.svg)](https://nodered.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+---
+
 # 🚗 Smart Parking IoT System
 
 This project implements a **Smart Parking System** using an **ESP32 microcontroller** with real-time monitoring via **Node-RED**.  
@@ -101,8 +110,6 @@ Feel free to use and adapt it for learning or development purposes.
 ---
 
 ⭐ If you like this project, feel free to fork, star, or reuse it for your own IoT projects!
-
-
 
 
 
